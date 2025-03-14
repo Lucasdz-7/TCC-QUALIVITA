@@ -12,7 +12,7 @@
 |-----------------|----|--------|------------|
 | Lucas Donizeti | 18 | Logísitca e Desenvolvimento de Sistemas | (www.linkedin.com/in/lucas-donizeti-53a9a1347) |
 | João Pereira | 19 | Manutenção de Aeronaves e Desenvolvimento de Sistemas | (www.linkedin.com/in/joão-vitor-pereira-2b3753284) |
-| Gustavo Ramos | 18 | Desenvolvimento de Sistemas | ------------------------------------------------------- |
+| Gustavo Ramos | 18 | Desenvolvimento de Sistemas | -------------------------- |
 
 <div align="center">
   
